@@ -4,4 +4,4 @@ NPM     : 2106701892
 
 Kelas   : A
 
-Hobi    : Tidur
+Hobi    : Menggabut bersama teman
